@@ -61,4 +61,4 @@ def parse_data():
         time.sleep(0.25)
     return lst_objs
 
-print('Старницы поиска собраны')
+print('Страницы поиска собраны')
